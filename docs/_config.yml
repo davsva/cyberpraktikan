@@ -1,0 +1,19 @@
+title: Cyberpraktikan
+description: Praktisk cybersäkerhet, NIS2 och lättviktiga ledningssystem.
+author: David Svanberg
+
+theme: minima
+
+lang: sv-SE
+
+header_pages:
+  - blogg.md
+  - guider.md
+  - mallar.md
+  - om.md
+  - kontakt.md
+
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
