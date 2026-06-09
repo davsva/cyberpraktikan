@@ -4,8 +4,6 @@ title: Mallar
 permalink: /mallar/
 ---
 
-# Mallar
-
 Här kommer mallar, checklistor och exempel som hjälper organisationer att dokumentera cybersäkerhetsarbetet på en rimlig nivå.
 
 Tanken är inte att skapa dokument för dokumentens skull.
