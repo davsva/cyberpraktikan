@@ -2,6 +2,9 @@ title: Cyberpraktikan
 description: Praktisk cybersäkerhet, NIS2 och lättviktiga ledningssystem.
 author: David Svanberg
 
+url: "https://cyberpraktikan.se"
+baseurl: ""
+
 theme: minima
 
 lang: sv-SE
@@ -17,3 +20,5 @@ markdown: kramdown
 
 plugins:
   - jekyll-feed
+
+
