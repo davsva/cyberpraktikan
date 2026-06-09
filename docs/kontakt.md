@@ -14,24 +14,27 @@ Har du förslag på guider, mallar eller praktiska problem som borde tas upp?
 
 Hör gärna av dig.
 
-## Kontaktvägar
+## E-post
 
-Kontaktuppgifter kommer här.
+Du kan kontakta Cyberpraktikan via e-post:
 
-Exempel på möjliga kanaler:
+[david.svanberg+cyberpraktikan@gmail.com](mailto:david.svanberg+cyberpraktikan@gmail.com)
 
-- e-post
-- GitHub Issues
-- LinkedIn
+## Feedback som är särskilt värdefull
 
-## Feedback
+Exempel på feedback som hjälper projektet framåt:
 
-Målet är att Cyberpraktikan ska bli bättre genom praktisk kritik från människor som faktiskt arbetar med frågorna.
+* “det här förstod jag inte”
+* “det här blev för förenklat”
+* “den här mallen skulle jag behöva”
+* “så här ser problemet ut i verkligheten”
+* “det här hjälper inte en mindre organisation”
 
-Särskilt värdefull feedback är:
+## Viktigt att känna till
 
-- “det här förstod jag inte”
-- “det här blev för förenklat”
-- “den här mallen skulle jag behöva”
-- “så här ser problemet ut i verkligheten”
-- “det här hjälper inte en mindre organisation”
+Cyberpraktikan är ett privat kunskapsprojekt av David Svanberg.
+
+Materialet är praktiskt stöd, inte juridisk rådgivning, och innebär ingen garanti för regelefterlevnad.
+
+Skicka inte känslig information, personuppgifter, incidentdetaljer, kundmaterial eller interna dokument via e-post.
+
