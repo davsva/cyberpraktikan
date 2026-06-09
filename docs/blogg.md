@@ -4,8 +4,6 @@ title: Blogg
 permalink: /blogg/
 ---
 
-# Blogg
-
 Här samlas korta texter om praktisk cybersäkerhet, NIS2, cybersäkerhetslagen och lättviktiga ledningssystem.
 
 Målet är inte att göra cybersäkerhet större än nödvändigt.
