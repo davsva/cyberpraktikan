@@ -4,8 +4,6 @@ title: Guider
 permalink: /guider/
 ---
 
-# Guider
-
 Här kommer praktiska guider för organisationer som vill komma igång med cybersäkerhetsarbete utan att börja med ett stort complianceprojekt.
 
 Guiderna ska vara korta, konkreta och möjliga att använda direkt.
