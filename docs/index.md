@@ -3,8 +3,6 @@ layout: home
 title: Cyberpraktikan
 ---
 
-# Cyberpraktikan
-
 Cybersäkerhet behöver inte börja med ett stort program, ett dyrt verktyg eller en hög med policyer.
 
 Börja med tre frågor:
