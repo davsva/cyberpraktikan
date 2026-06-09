@@ -1,5 +1,3 @@
-# Om Cyberpraktikan
-
 Cyberpraktikan är ett privat kunskapsprojekt av David Svanberg om praktisk cybersäkerhet, NIS2, cybersäkerhetslagen och lättviktiga ledningssystem.
 
 Målet är att göra cybersäkerhet begripligt, görbart och mindre dramatiskt.
