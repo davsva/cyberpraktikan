@@ -4,8 +4,6 @@ title: Kontakt
 permalink: /kontakt/
 ---
 
-# Kontakt
-
 Cyberpraktikan byggs stegvis.
 
 Hittar du något som är otydligt, fel, för krångligt eller för förenklat?
