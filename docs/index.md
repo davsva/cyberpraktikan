@@ -3,10 +3,6 @@ layout: home
 title: Cyberpraktikan
 ---
 
-<p align="center">
-  <img src="/assets/logo.svg" alt="Cyberpraktikan" style="max-width: 420px; width: 100%; height: auto;">
-</p>
-
 Cybersäkerhet behöver inte börja med ett stort program, ett dyrt verktyg eller en hög med policyer.
 
 Börja med tre frågor:
