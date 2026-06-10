@@ -112,6 +112,14 @@ Tanken är att varje text på sikt ska kunna leda vidare till något användbart
 * en enkel rapport
 * en del av ett framtida lättviktigt ledningssystem
 
+## Varför skriver jag om det här?
+
+Jag är BSc in Computer Engineering och har arbetat med IT, arkitektur, integrationer och IT-säkerhet sedan slutet av 1990-talet. Genom åren har jag haft roller som systemutvecklare, lösningsarkitekt, chefsarkitekt, IT-chef och IT-säkerhetschef i både privata och offentliga uppdrag, ofta i miljöer med höga krav på säkerhet, tillgänglighet och förvaltning.
+
+Min erfarenhet är praktisk och verksamhetsnära: IAM, backup, SIEM, EDR/XDR, informationsklassning, risk- och kontinuitetshantering, ISO 27001-relaterat förbättringsarbete, NIS2-frågor, upphandling och styrning av IT-lösningar.
+
+Cyberpraktikan bygger på denna erfarenhet, men också på ett samhällsengagemang. I ett digitaliserat samhälle behöver alla organisationer kunna hantera cybersäkerhet på allvar. Det handlar inte bara om teknik eller regelefterlevnad, utan också om robusthet, förtroende och en fungerande vardag. På det sättet är cybersäkerhet en viktig del av samhällets motståndskraft och landets totalförsvar.
+
 ## Feedback
 
 Cyberpraktikan blir bättre av praktisk kritik.

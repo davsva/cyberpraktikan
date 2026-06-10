@@ -10,6 +10,19 @@ Målet är inte att göra cybersäkerhet större än nödvändigt.
 
 Målet är att göra den begriplig, görbar och möjlig att följa upp.
 
+## Blogginlägg
+
+{% for post in site.posts %}
+## [{{ post.title }}]({{ post.url | relative_url }})
+
+{{ post.date | date: "%Y-%m-%d" }}
+
+{% if post.excerpt %}
+{{ post.excerpt }}
+{% endif %}
+
+{% endfor %}
+
 ## Kommande inlägg
 
 Exempel på ämnen:
