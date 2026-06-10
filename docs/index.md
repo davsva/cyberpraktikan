@@ -1,6 +1,6 @@
 ---
-layout: home
-title: Cyberpraktikan
+layout: page
+title: ""
 ---
 
 Cybersäkerhet behöver inte börja med ett stort program, ett dyrt verktyg eller en hög med policyer.
