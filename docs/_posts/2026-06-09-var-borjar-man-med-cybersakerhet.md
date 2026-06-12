@@ -89,3 +89,14 @@ Det är inte ett färdigt ledningssystem.
 Men det är en början.
 
 Och en början är mycket bättre än ett stort program som aldrig kommer igång.
+
+## Vill du börja direkt?
+
+Jag har tagit fram en första enkel Excelmall för att samla ansvar, viktiga system, risker, åtgärder och uppföljning på ett ställe.
+
+Den är inte tänkt att vara ett färdigt compliancepaket. Den är tänkt att hjälpa er att komma igång.
+
+Börja med att fylla i några ansvar, några viktiga system, några verkliga risker och några åtgärder som faktiskt går att genomföra. Lägg filen på en yta som säkerhetskopieras och som rätt personer kommer åt.
+
+[⬇ Ladda ner: Cyberpraktikan – enkelt ledningssystem för cybersäkerhet, version 0.1](/assets/mallar/cyberpraktikan-enkelt-ledningssystem-v0.1.xlsx)
+
